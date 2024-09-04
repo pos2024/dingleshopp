@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dingleshopp/static/css/main.336a770e.css",
+    "main.js": "/dingleshopp/static/js/main.546b2e29.js",
+    "static/media/bornok.jpg": "/dingleshopp/static/media/bornok.94d8f0d50110f9a715ba.jpg",
+    "index.html": "/dingleshopp/index.html",
+    "main.336a770e.css.map": "/dingleshopp/static/css/main.336a770e.css.map",
+    "main.546b2e29.js.map": "/dingleshopp/static/js/main.546b2e29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.336a770e.css",
+    "static/js/main.546b2e29.js"
+  ]
+}
